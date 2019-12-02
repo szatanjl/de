@@ -7,3 +7,6 @@
 [submodule "dmenu"]
 	path = dmenu
 	url = git@github.com:szatanjl/dmenu.git
+[submodule "slock"]
+	path = slock
+	url = git@github.com:szatanjl/slock.git
