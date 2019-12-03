@@ -10,3 +10,6 @@
 [submodule "slock"]
 	path = slock
 	url = git@github.com:szatanjl/slock.git
+[submodule "dwm-utils"]
+	path = dwm-utils
+	url = git@github.com:szatanjl/dwm-utils.git
